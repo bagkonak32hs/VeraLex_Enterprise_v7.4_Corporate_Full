@@ -1,0 +1,18 @@
+{
+  "panel": "#0E1524",
+  "panel_alt": "#151C2E",
+  "tree_bg": "#0C1324",
+  "tree_fg": "#E8EEF9",
+  "text": "#EAF2FF",
+  "selection_bg": "#2A4A7D",
+  "selection_fg": "#FFFFFF",
+  "accent": "#4EA1FF",
+
+  "btn_bg": "#1E2A44",
+  "btn_fg": "#EAF2FF",
+  "header_bg": "#0E1524",
+  "header_fg": "#A8C3F7",
+  "danger": "#D9534F",
+  "success": "#29A36A",
+  "warning": "#E3A008"
+}

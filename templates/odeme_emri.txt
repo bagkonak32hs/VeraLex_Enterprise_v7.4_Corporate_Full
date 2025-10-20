@@ -1,0 +1,3 @@
+Sayın {{debtor}},
+Dosya: {{file}} - Mahkeme: {{court}}
+Borç kalemleri ekte yer almaktadır. {{today}}

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "c:\Users\selcu\OneDrive\Masaüstü\w7.3\app.py", line 1165, in main
+    App(root, *dlg.result)
+  File "c:\Users\selcu\OneDrive\Masaüstü\w7.3\app.py", line 193, in __init__
+    self.build(); self.refresh_all()
+    ^^^^^^^^^^^^
+  File "c:\Users\selcu\OneDrive\Masaüstü\w7.3\app.py", line 212, in build
+    m_i.add_command(label="UYAP Senkronize", command=self.menu_uyap)
+                                                     ^^^^^^^^^^^^^^
+AttributeError: 'App' object has no attribute 'menu_uyap'

@@ -1,0 +1,3 @@
+Alıcı: {{debtor}}
+Gönderen: {{client}}
+Dosya: {{file}}  Tarih: {{today}}

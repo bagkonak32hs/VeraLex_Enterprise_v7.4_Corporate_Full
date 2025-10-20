@@ -1,0 +1,9 @@
+Sayın {{court}}
+
+{{client}} vekili olarak {{debtor}} hakkında {{file}} numaralı dosyada takip talebimiz aşağıdadır.
+Tarih: {{today}}
+{{today}} tarihli
+Müvekkil: {{client}}
+Borçlu: {{debtor}}
+Dosya No: {{file}}
+Konu: Takip Talebi
